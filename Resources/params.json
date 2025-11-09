@@ -1,0 +1,12 @@
+[
+  {
+    "p_rel_url": "InfoAdam1998/IBM-HR-project/refs/heads/main/Resources/HR-Employee-Attrition.csv",
+    "p_folder": "hr_analytics",
+    "p_file": "hr_analytics.csv"
+  },
+  {
+    "p_rel_url": "InfoAdam1998/IBM-HR-project/refs/heads/main/Resources/HR-Employee-Attrition%20(1).csv",
+    "p_folder": "hr_analytics_dup",
+    "p_file": "hr_analytics_dup.csv"
+  }
+]
